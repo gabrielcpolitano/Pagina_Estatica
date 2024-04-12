@@ -8,7 +8,7 @@ Este repositório contém os arquivos fonte da minha página pessoal estática. 
 Para começar a usar este projeto, clone o repositório em sua máquina local:
 
 ```bash
-git clone https://github.com/seuusuario/seuprojeto.git
+git clone https://github.com/gabrielcpolitano/Projeto_1.git
 ```
 
 Abra o arquivo `index.html` em um navegador para visualizar o site.
@@ -37,12 +37,7 @@ Contribuições são sempre bem-vindas! Se você tem sugestões para melhorar es
 
 ## 📫 Contato
 
-Caso queira falar comigo, envie um email para [seuemail@example.com](mailto:seuemail@example.com).
+Caso queira falar comigo, envie um email para [gabriel.cpolitano@gmail.com](gabriel.cpolitano@gmail.com).
 
-## 📝 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Feito com ❤️ por [SeuNome](https://github.com/seuusuario)
+Feito com ❤️ por [Gabriel Politano](https://github.com/gabrielcpolitano)
