@@ -37,7 +37,7 @@ Contribuições são sempre bem-vindas! Se você tem sugestões para melhorar es
 
 ## 📫 Contato
 
-Caso queira falar comigo, envie um email para [gabriel.cpolitano@gmail.com](gabriel.cpolitano@gmail.com).
+Caso queira falar comigo, envie um email para [gabriel.cpolitano@gmail.com](mailto:gabriel.cpolitano@gmail.com).
 
 
 Feito com ❤️ por [Gabriel Politano](https://github.com/gabrielcpolitano)
