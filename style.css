@@ -1,40 +1,121 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
+    background-color: #ffffff;
+    color: #333;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
-    color: #333;
+    line-height: 1.6;
+    padding-bottom: 100px;
 }
 
-header, footer {
-    background-color: #022851;
-    color: white;
+
+header, section, footer {
+    padding: 20px;
+    margin: 10px;
+}
+
+.conteudo {
+    border-radius: 4px;
+    background-color: #FFF5E0;
+    box-shadow: 10px 10px 20px 5px rgba(0,0,0,0.5);
+    transition: background-color 0.5s ease;
+}
+
+header {
+    background: #141E46;
+    color: #ffffff;
     text-align: center;
-    padding: 10px 0;
+    padding: 20px 10px;
+    border-radius: 5px;
+    position: relative; /* Assegura posicionamento relativo para elementos internos */
+}
+
+header h1 {
+    cursor: pointer; /* Indica que o h1 é interativo */
+}
+
+header p {
+    display: none; /* Oculta o parágrafo por padrão */
+    background-color: #141E46;
+}
+
+header h1:hover + p {
+    display: block; /* Exibe o parágrafo quando o h1 é focado pelo mouse */
+    opacity: 1; /* Torna o parágrafo totalmente opaco quando visível */
+}
+
+.heart {
+    color: red; /* Cor do coração */
+    padding: 0 4px; /* Espaçamento ao redor do coração */
+}
+
+
+h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+h2 {
+    color: #333;
+    font-size: 1.5rem;
+}
+
+p {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+}
+
+a {
+    color: #0066ff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 footer {
     position: fixed;
     bottom: 0;
-    width: 100%;
-} 
-
-section {
-    margin: 20px;
-    padding: 20px;
-    background-color: white;
-    border-radius: 8px;
-}
-
-h2 {
-    color: #022851;
-}
-
-a {
+    left: 50%;
+    transform: translateX(-50%);
+    width: 50%;
+    background-color: #333;
     color: white;
-    text-decoration: none;
+    text-align: center;
+    border-radius: 4px;
+    transition: background-color 0.5s ease;
 }
 
-a:hover {
-    color:red;
+.heart {
+    color: red;
+    padding: 0 4px;
+}
+
+footer p {
+    font-size: 1rem;
+    margin: 0;
+}
+
+footer:hover {
+    background-color: #8DECB4;
+    font-weight: bold;
+    color: #141E46;
+}
+
+@media (min-width: 768px) {
+    body {
+        display: grid;
+        grid-template-columns: 5fr 5fr;
+        gap: 20px;
+    }
+
+    header, footer {
+        grid-column: 1 / -1;
+    }
+
+    section {
+        padding: 40px;
+        margin: 25px;
+    }
 }
