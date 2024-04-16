@@ -44,4 +44,5 @@ Para colaborações ou perguntas, sinta-se à vontade para me contatar:
 - **📱 WhatsApp:** [Mande uma mensagem](https://wa.me/17996490503)
 
 
-## Feito com ❤️ por [Gabriel Politano](https://github.com/gabrielcpolitano)
+## 
+Feito com ❤️ por [Gabriel Politano](https://github.com/gabrielcpolitano)
