@@ -35,9 +35,13 @@ O estilo é definido pelo arquivo `style.css`, que inclui definições para core
 
 Contribuições são sempre bem-vindas! Se você tem sugestões para melhorar este site, sinta-se à vontade para fazer um fork do repositório e enviar um pull request, ou abrir um issue com as tags "melhoria" ou "bug".
 
-## 📫 Contato
+## 📬 Contato
 
-Caso queira falar comigo, envie um email para [gabriel.cpolitano@gmail.com](mailto:gabriel.cpolitano@gmail.com).
+Para colaborações ou perguntas, sinta-se à vontade para me contatar:
+
+- **📧 Email:** [gabriel.cpolitano@gmail.com](mailto:gabriel.cpolitano@gmail.com)
+- **💼 LinkedIn:** [Visite meu perfil](https://www.linkedin.com/in/gabriel-correia-politano-a30335302/)
+- **📱 WhatsApp:** [Mande uma mensagem](https://wa.me/17996490503)
 
 
-Feito com ❤️ por [Gabriel Politano](https://github.com/gabrielcpolitano)
+## Feito com ❤️ por [Gabriel Politano](https://github.com/gabrielcpolitano)
