@@ -30,7 +30,7 @@
 
 ## 📲 Interface
 
-<img src="https://raw.githubusercontent.com/gabrielcpolitano/minha-pagina/main/pagina.png" width="447" height="461">
+<img src="https://raw.githubusercontent.com/gabrielcpolitano/Pagina_Estatica/main/pagina.png" width="400" height="290">
 
 ## 🏠 Executando Localmente
 
